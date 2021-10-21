@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font: bold;
+}
+
+h3{
+    color:darkgreen;
+    font:bold;
+}
